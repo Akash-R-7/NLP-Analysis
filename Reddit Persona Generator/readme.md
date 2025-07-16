@@ -34,8 +34,8 @@ Reddit Persona Generator/
 ### 1️⃣ Clone the repository
 
 ```bash
-gh repo clone Akash-R-7/NLP-Analysis
-cd "Reddit Persona Generator"
+git clone https://github.com/Akash-R-7/NLP-Analysis.git
+cd "NLP-Analysis/Reddit Persona Generator"
 ```
 ---
 
