@@ -90,5 +90,5 @@ Outputs:<br>
 * The method scrapes user's comments and posts, along with additional information like time, subreddit info. to build on persona.
 * Uses Sentiment analyzer, POS taggers and rule-based modules to get relevant information about user grounded in proper citations.
 * The advantage that follow such an approach are: zero cost, low-latency, proper citations, and interpretability.
-* Other approach with open-sorce LLMs using Ollama was also tested, with some prompting techniques, but the results were unsatisfactory with hallucinations, increased latency, and inability to proper citing.
+* Initially an approach with open-source LLMs using Ollama was also tried using some prompting techniques, but the results were unsatisfactory with hallucinations, increased latency, and inability to properly cite references.
 
