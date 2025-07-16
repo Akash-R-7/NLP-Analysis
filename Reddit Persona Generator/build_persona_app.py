@@ -107,7 +107,7 @@ def write_persona_to_txt(username, persona, output_file):
 # def save_persona_data(username, persona_data):
 #     with open(f"output/persona_data_{username}.json", "w") as f:
 #         json.dump(persona_data, f, indent=2)
-#     print(f"[✅] Saved tagged persona data for {username}.")
+#     print(f"Saved tagged persona data for {username}.")
 
 if __name__ == "__main__":
     username = input("Enter Reddit username (without /u/): ").strip()
